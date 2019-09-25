@@ -7,6 +7,7 @@
             flex-direction: column;
             /* background-color: rgba(10, 16, 107, 0.966); */
             background-image: url("https://images.pexels.com/photos/21387/pexels-photo.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+            /* background: cornflowerblue; */
         }
 
         main{
@@ -57,6 +58,8 @@
             bottom:120px;
             /* left:50px; */
             height: 100%;
+            border-radius: 20px;
+            border
         }
 
         #subcontUnoUno{

@@ -1,0 +1,14 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    width: 90%;
+}
+
+#columnaroja{
+    background-color: red;
+}
+
+.columnaverde{
+    background-color: green;
+}
