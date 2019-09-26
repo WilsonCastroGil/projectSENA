@@ -1,0 +1,26 @@
+[
+    {
+        "name":"Julanito",
+        "email":"usuariouno@dominio.com",
+        "geo": {
+            "lat": "-37.3159",
+            "lng": "81.1496"
+        }
+    },
+    {
+        "name":"Sutanita",
+        "email":"usuariodos@dominio.com",
+        "geo": {
+            "lat": "37.3159",
+            "lng": "-81.1496"
+        }
+    },
+    {
+        "name":"Pepita",
+        "email":"usuariotres@dominio.com",
+        "geo": {
+            "lat": "40.0000",
+            "lng": "-20.9078"
+        }
+    }
+]
